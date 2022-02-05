@@ -43,11 +43,48 @@ Grading
 
 Grades for the subject will be based on a total of 550 points.
 
-| Activities | Points |
-| --- | --- |
-| Three Exams (100 Points Each) | 300 points |
-| Final Exam | 200 points |
-| Homework | 50 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Activities
+{{< thclose >}}
+{{< thopen >}}
+Points
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Exams (100 Points Each)
+{{< tdclose >}}
+{{< tdopen >}}
+300 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+200 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+50 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Exams
 -----

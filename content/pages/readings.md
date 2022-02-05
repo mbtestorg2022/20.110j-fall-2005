@@ -10,44 +10,499 @@ Reading assignments are from the following textbooks:
 
 \[DB\] Dill, Ken A., and Sarina Bromberg. _Molecular Driving Forces: Statistical Thermodynamics in Chemistry and Biology_. New York, NY: Routledge, 2002. ISBN: 9780815320517.
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to Thermo; 0th Law; Temperature; Work; Heat | SAB 1.1-1.4, 1.8-1.9, 2.1 |
-| 2 | State Functions, 1st Law, Paths | SAB 2.2-2.6 |
-| 3 | Joule and Joule-Thompson; Heat Capacity | SAB 2.7-2.9 |
-| 4 | Reversible and Irreversible Processes | SAB 2.10, 3.1 |
-| 5 | Thermochemistry | SAB 2.11-2.13 |
-| 6 | 2nd Law; Entropy (Boltzmann and Clausius) | SAB 3.2 |
-| 7 | ΔS for Reversible and Irreversible Processes | SAB 3.3-3.5 |
-| 8 | Equilibrium; Maxwell Relations; Free Energy | SAB 4.1-4.2, 4.9  {{< br >}}  {{< br >}}DB 8 |
-| 9 | Chemical Potential; Phase Equilibrium | SAB 4.3-4.4, 4.6-4.7 |
-| 10 | Chemical Equilibrium; Equilibrium Constant | SAB 5.1-5.4 |
-| 11 | Standard States; Gibbs-Duhem | SAB 4.8 |
-| 12 | ΔG0\= -RTlnK; Example | SAB 8.1-8.2 |
-|  | Hour Exam 1 |  |
-| 13 | Boltzmann Distribution | DB 6  {{< br >}}  {{< br >}}SAB 3.6, 16.1-16.2 |
-| 14 | Thermo and Boltzmann Distribution | DB 10 (first half) |
-| 15 | Occupation of States | DB 10 (second half) |
-| 16 | Third Law | SAB 3.8 |
-| 17 | Phase Equilibria, Single Component | SAB 6.1-6.2  {{< br >}}  {{< br >}}DB 14 |
-| 18 | Phase Equilibria II; Clausius Clapeyron | SAB 6.3 |
-| 19 | Regular Solutions; Mixing Energy; Mean Fields | DB 15  {{< br >}}  {{< br >}}[Class notes]({{< baseurl >}}/pages/lecture-notes) |
-| 20 | Nonideal Solutions |  |
-| 21 | Solvation; Colligative Properties | DB 16  {{< br >}}  {{< br >}}[Class notes]({{< baseurl >}}/pages/lecture-notes) |
-|  | Hour Exam 2 |  |
-| 22 | Osmotic Pressure and Phase Partitioning | DB 16 |
-| 23 | Surface Tension | DB 14 |
-| 24 | Polymer 1 - Freely Jointed Chain | DB 31 |
-| 25 | Polymer 2 - Chain Conformation | DB 31 |
-| 26 | Polymer 3 - Rubber Elasticity | DB 32 |
-| 27 | Electrolyte Solutions |  |
-| 28 | Electrolytes at Interfaces; Debye Length | [Class notes]({{< baseurl >}}/pages/lecture-notes) |
-| 29 | Titration of Polyelectrolytes | [Class notes]({{< baseurl >}}/pages/lecture-notes) |
-| 30 | Thermodynamics of DNA Hybridization | [Class notes]({{< baseurl >}}/pages/lecture-notes) |
-| 31 | Cooperativity | DB 26 |
-|  | Hour Exam 3 |  |
-| 32 | Cooperativity, Part 2 | DB 28 |
-| 33 | Cooperativity, Part 3 |  |
-| 34 | Driving Forces for Self-Assembly |  |
-| 35 | Special Topic (Coarse Grain/Monte Carlo Model) |  |
-| 36 | Course Review and Evaluations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Thermo; 0th Law; Temperature; Work; Heat
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 1.1-1.4, 1.8-1.9, 2.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+State Functions, 1st Law, Paths
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 2.2-2.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Joule and Joule-Thompson; Heat Capacity
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 2.7-2.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Reversible and Irreversible Processes
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 2.10, 3.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Thermochemistry
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 2.11-2.13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+2nd Law; Entropy (Boltzmann and Clausius)
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 3.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+ΔS for Reversible and Irreversible Processes
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 3.3-3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium; Maxwell Relations; Free Energy
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 4.1-4.2, 4.9  
+  
+DB 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Potential; Phase Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 4.3-4.4, 4.6-4.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Equilibrium; Equilibrium Constant
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 5.1-5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Standard States; Gibbs-Duhem
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 4.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+ΔG0\= -RTlnK; Example
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 8.1-8.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hour Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Boltzmann Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+DB 6  
+  
+SAB 3.6, 16.1-16.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Thermo and Boltzmann Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+DB 10 (first half)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Occupation of States
+{{< tdclose >}}
+{{< tdopen >}}
+DB 10 (second half)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Third Law
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria, Single Component
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 6.1-6.2  
+  
+DB 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria II; Clausius Clapeyron
+{{< tdclose >}}
+{{< tdopen >}}
+SAB 6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Regular Solutions; Mixing Energy; Mean Fields
+{{< tdclose >}}
+{{< tdopen >}}
+DB 15  
+  
+[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Nonideal Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Solvation; Colligative Properties
+{{< tdclose >}}
+{{< tdopen >}}
+DB 16  
+  
+[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hour Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Osmotic Pressure and Phase Partitioning
+{{< tdclose >}}
+{{< tdopen >}}
+DB 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Surface Tension
+{{< tdclose >}}
+{{< tdopen >}}
+DB 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Polymer 1 - Freely Jointed Chain
+{{< tdclose >}}
+{{< tdopen >}}
+DB 31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Polymer 2 - Chain Conformation
+{{< tdclose >}}
+{{< tdopen >}}
+DB 31
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Polymer 3 - Rubber Elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+DB 32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Electrolyte Solutions
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Electrolytes at Interfaces; Debye Length
+{{< tdclose >}}
+{{< tdopen >}}
+[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Titration of Polyelectrolytes
+{{< tdclose >}}
+{{< tdopen >}}
+[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Thermodynamics of DNA Hybridization
+{{< tdclose >}}
+{{< tdopen >}}
+[Class notes]({{< baseurl >}}/pages/lecture-notes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperativity
+{{< tdclose >}}
+{{< tdopen >}}
+DB 26
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Hour Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperativity, Part 2
+{{< tdclose >}}
+{{< tdopen >}}
+DB 28
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Cooperativity, Part 3
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Driving Forces for Self-Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Special Topic (Coarse Grain/Monte Carlo Model)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Course Review and Evaluations
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
