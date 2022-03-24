@@ -123,7 +123,7 @@ SAB Example 6.4
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Recitation Problem 15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rec15))
+Recitation Problem 15 ([PDF]({{< baseurl >}}/resources/rec15))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -185,7 +185,7 @@ Hour Exam 1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Boltzmann Distribution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l13))
+Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/l13))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -197,7 +197,7 @@ KHS
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Thermo and Boltzmann Distribution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l14))
+Thermo and Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/l14))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -209,7 +209,7 @@ KHS
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Occupation of States (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l15))
+Occupation of States ([PDF]({{< baseurl >}}/resources/l15))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -221,7 +221,7 @@ KHS
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Third Law (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l16))
+Third Law ([PDF]({{< baseurl >}}/resources/l16))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -233,7 +233,7 @@ KHS
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Phase Equilibria, Single Component (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l17))
+Phase Equilibria, Single Component ([PDF]({{< baseurl >}}/resources/l17))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -245,7 +245,7 @@ KHS
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Phase Equilibria II; Clausius Clapeyron (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l18))
+Phase Equilibria II; Clausius Clapeyron ([PDF]({{< baseurl >}}/resources/l18))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
@@ -281,7 +281,7 @@ KHS
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Solvation; Colligative Properties (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l21))
+Solvation; Colligative Properties ([PDF]({{< baseurl >}}/resources/l21))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -305,7 +305,7 @@ Hour Exam 2
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Osmotic Pressure and Phase Partitioning (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l22))
+Osmotic Pressure and Phase Partitioning ([PDF]({{< baseurl >}}/resources/l22))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -317,7 +317,7 @@ LGG
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Surface Tension (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l23))
+Surface Tension ([PDF]({{< baseurl >}}/resources/l23))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -329,7 +329,7 @@ LGG
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 1 - Freely Jointed Chain (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l24))
+Polymer 1 - Freely Jointed Chain ([PDF]({{< baseurl >}}/resources/l24))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -341,7 +341,7 @@ LGG
 25
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 2 - Chain Conformation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l25))
+Polymer 2 - Chain Conformation ([PDF]({{< baseurl >}}/resources/l25))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -353,7 +353,7 @@ LGG
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Polymer 3 - Rubber Elasticity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB]({{< baseurl >}}/resources/l26))
+Polymer 3 - Rubber Elasticity ([PDF - 2.2 MB]({{< baseurl >}}/resources/l26))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -365,7 +365,7 @@ LGG
 27
 {{< tdclose >}}
 {{< tdopen >}}
-Electrolyte Solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l27))
+Electrolyte Solutions ([PDF]({{< baseurl >}}/resources/l27))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -377,7 +377,7 @@ LGG
 28
 {{< tdclose >}}
 {{< tdopen >}}
-Electrolytes at Interfaces; Debye Length (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l28))
+Electrolytes at Interfaces; Debye Length ([PDF]({{< baseurl >}}/resources/l28))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -389,7 +389,7 @@ LGG
 29
 {{< tdclose >}}
 {{< tdopen >}}
-Titration of Polyelectrolytes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l29))
+Titration of Polyelectrolytes ([PDF]({{< baseurl >}}/resources/l29))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -401,7 +401,7 @@ LGG
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Thermodynamics of DNA Hybridization (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB]({{< baseurl >}}/resources/l30))
+Thermodynamics of DNA Hybridization ([PDF - 1.5 MB]({{< baseurl >}}/resources/l30))
 {{< tdclose >}}
 {{< tdopen >}}
 LGG
@@ -413,7 +413,7 @@ LGG
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Cooperativity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/l31))
+Cooperativity ([PDF]({{< baseurl >}}/resources/l31))
 {{< tdclose >}}
 {{< tdopen >}}
 KHS
